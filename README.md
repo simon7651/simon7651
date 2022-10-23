@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon Okafor</h1>
 <h3 align="center">A passionate Data Scientist by Night, Aircraft Maintenance Engr by Day from Nigeria</h3>
+<img aline="right" alt = "coding" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5v9cC9na_Eme-hFZLRn6wdo_Yd7See1w1A&usqp=CAU"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simon7651&label=Profile%20views&color=0e75b6&style=flat" alt="simon7651" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Analysis, ML,AI, Full Stack Web Dev & Software Eng.**
 
-- 💬 Ask me about **Python,**
+- 💬 Ask me about **Python,AI,ML**
 
 - 📫 How to reach me **Okaforcsimon@gmail.com**
 
